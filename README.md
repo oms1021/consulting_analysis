@@ -1,4 +1,6 @@
-## consulting_analysis
+# Consulting Analysis
+
+
 You are a financial analyst with a national consulting firm. Your firm regularly sets up contracts with companies all over the country to improve their business model. The firm currently does not have a headquarters and mostly utilizes work from home employees due to the needed flexibility of traveling. Currently the board of directors is investigating the formation of a headquarters location to add visibility to the firm and grow in an area they are most likely to succeed in.
 
 You have been given two data files: customers.csv and contracts.csv.
